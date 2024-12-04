@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8B70CFF9-A09B-4B49-8B26-F4D90C551F52}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_XL_API_30" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StylesDemo PreferredExecutionTarget="Android.Pixel_XL_API_30" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StylesDemo/MainPage.xaml.cs">
+    <Files>
+      <File FileName="StylesDemo/MainPage.xaml" />
+      <File FileName="StylesDemo/MainPage.xaml.cs" Line="19" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StylesDemo" expanded="True">
+            <Node name="StylesDemo" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Styles" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.95" />
+</Properties>
